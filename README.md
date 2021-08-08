@@ -30,7 +30,7 @@ Kashier payment gateway support for prestashop 1.7
 
 - Download [kashier.zip](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.7/main/kashier.zip)
 
-- Upload the plugin on prestashop.
+- Upload the plugin on prestashop from sidebar modules > Module manager > Upload a module.
 
 ![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.7/master/steps/upload_module.png)
 
