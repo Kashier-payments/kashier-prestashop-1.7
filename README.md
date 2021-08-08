@@ -17,7 +17,7 @@ Kashier payment gateway support for prestashop 1.7
 
 - Plug and play.
 
--Support multiple payment methods
+- Support multiple payment methods
      
      - card 
      - wallet
